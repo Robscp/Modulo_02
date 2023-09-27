@@ -1,0 +1,11 @@
+puts "john".object_id
+puts "john".object_id
+puts "john".object_id
+puts "john".object_id
+puts "john".object_id
+puts "_______________"
+puts :john.object_id
+puts :john.object_id
+puts :john.object_id
+puts :john.object_id
+puts :john.object_id
